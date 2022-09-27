@@ -39,3 +39,18 @@
 .white {
     background-color: #d5bc93;
 }
+
+.selected {
+    background-color: brown;
+}
+
+.available {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #2b8c33;
+}
+
+.attacked {
+    background-color: #2b8c33;
+}
